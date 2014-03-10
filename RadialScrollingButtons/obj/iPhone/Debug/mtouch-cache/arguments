@@ -1,0 +1,27 @@
+# Version: 7.0.6.168 (2ed9bc9)
+# [first argument, ignore] # /Users/apple/Projects/RadialScrollingButtons/RadialScrollingButtons/bin/iPhone/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/apple/Projects/RadialScrollingButtons/RadialScrollingButtons/obj/iPhone/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-dev \
+	/Users/apple/Projects/RadialScrollingButtons/RadialScrollingButtons/bin/iPhone/Debug/RadialScrollingButtons.app \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-debug \
+	-linksdkonly \
+	-sdk \
+	7.0 \
+	-targetver \
+	7.0 \
+	--abi=armv7 \
+	/Users/apple/Projects/RadialScrollingButtons/RadialScrollingButtons/bin/iPhone/Debug/RadialScrollingButtons.exe \

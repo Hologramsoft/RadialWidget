@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadialScrollingButtons", "RadialScrollingButtons\RadialScrollingButtons.csproj", "{18FF5D80-F78A-4223-B198-9BD0D028F6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.Release|iPhone.Build.0 = Release|iPhone
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{18FF5D80-F78A-4223-B198-9BD0D028F6CF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RadialScrollingButtons\RadialScrollingButtons.csproj
+	EndGlobalSection
+EndGlobal
